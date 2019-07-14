@@ -1,0 +1,30 @@
+INSTALLATION & SETUP
+
+npm i -g create-react-app
+cd desktop
+create-react-app app
+code app
+
+
+VARIABLE INTERPOLATION
+to={"/"+var}
+to={`/${var}`}
+
+
+ITERABLE DESTRUCTURING
+let {links} = this.state
+let {links:links} = this.state
+
+
+
+RENDER PROPS : Es un prop que toma una funcion y el contenido de la funcion es lo que se va a usar para el render del componente
+
+
+CONTEXT API : Es un feature que ya viene incluido en React que nos permite acceder al un estado desde cualquier componente sin tener que pasar todo por props
+
+
+
+
+
+
+https://www.youtube.com/watch?v=AeUCN2lPqL8

@@ -1,0 +1,8 @@
+.errorHoc {
+    border: 1px solid olivedrab;
+    color: rgb(16, 49, 48);
+    background-color: pink;
+    padding: 1rem;
+    width: 250px;
+    text-align: center;
+}
